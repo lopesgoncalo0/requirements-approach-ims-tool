@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/requirements-approach-ims-tool/static/css/main.cac8889a.css",
+    "main.js": "/requirements-approach-ims-tool/static/js/main.8fdb91d9.js",
+    "static/js/977.3fb19dfc.chunk.js": "/requirements-approach-ims-tool/static/js/977.3fb19dfc.chunk.js",
+    "static/js/732.108f74ae.chunk.js": "/requirements-approach-ims-tool/static/js/732.108f74ae.chunk.js",
+    "static/js/453.b76048cd.chunk.js": "/requirements-approach-ims-tool/static/js/453.b76048cd.chunk.js",
+    "index.html": "/requirements-approach-ims-tool/index.html",
+    "main.cac8889a.css.map": "/requirements-approach-ims-tool/static/css/main.cac8889a.css.map",
+    "main.8fdb91d9.js.map": "/requirements-approach-ims-tool/static/js/main.8fdb91d9.js.map",
+    "732.108f74ae.chunk.js.map": "/requirements-approach-ims-tool/static/js/732.108f74ae.chunk.js.map",
+    "453.b76048cd.chunk.js.map": "/requirements-approach-ims-tool/static/js/453.b76048cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac8889a.css",
+    "static/js/main.8fdb91d9.js"
+  ]
+}
